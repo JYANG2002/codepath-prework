@@ -4,7 +4,7 @@
 
 Submitted by: **Joseph Yang**
 
-Time spent: **1** hour1 spent in total
+Time spent: **1** hour spent in total
 
 ## User Stories
 
