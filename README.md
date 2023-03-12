@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user storie:
+Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/go6TitRUWg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
